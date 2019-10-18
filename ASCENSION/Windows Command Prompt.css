@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Windows Command Prompt';
+    src: url('fonts/windowscommandprompt.eot');
+    src: url('fonts/windowscommandprompt.eot?#iefix') format('embedded-opentype'),
+         url('fonts/windowscommandprompt.woff2') format('woff2'),
+         url('fonts/windowscommandprompt.woff') format('woff'),
+         url('fonts/windowscommandprompt.ttf')  format('truetype'),
+         url('fonts/windowscommandprompt.svg#Windows Command Prompt') format('svg');
+}
